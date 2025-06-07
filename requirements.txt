@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+mcp
+openai
+anthropic
+google-generativeai
+arxiv
+PyPDF2
+requests
+python-dotenv
+pydantic
+asyncio-mqtt
+websockets
+click
+rich
